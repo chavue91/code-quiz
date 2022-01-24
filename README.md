@@ -2,6 +2,7 @@ A timed quiz on coding-related questions. This browser deployed app allows you t
 
 #
 Website deployment [https://chavue91.github.io/code-quiz/] (https://chavue91.github.io/code-quiz/)
+Repo (https://github.com/chavue91/code-quiz.git)
 
 ##
 <img src="./assets/images/coding-quiz-challenge.PNG" style="width: 400px" alt="site screenshot">
